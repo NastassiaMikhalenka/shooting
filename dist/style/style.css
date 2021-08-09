@@ -83,6 +83,16 @@ li:not(:last-child){
 	color: #4A4FF2;
 }
 
+.logo{
+	text-decoration: none;
+	font-family: 'Mulish', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 23px;
+	color: #111111;
+}
+
 .text_description_2{
 	font-family: 'Mulish', sans-serif;
 	font-style: italic;
